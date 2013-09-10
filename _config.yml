@@ -3,11 +3,11 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
+title: 偶然是個
 subtitle:
 description:
-author: John Doe
-email:
+author: Ddio
+email: ddioibb@gmail.com
 language:
 
 # URL
@@ -66,7 +66,7 @@ per_page: 10
 pagination_dir: page
 
 # Disqus
-disqus_shortname:
+disqus_shortname: ddioblog
 
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
